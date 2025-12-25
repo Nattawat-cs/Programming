@@ -1,0 +1,17 @@
+
+public class L28variablescope {
+
+    static int x = 3; //CLASS
+
+    public static void main(String[] args) {
+
+        int x = 1; // LOCAL
+
+        doSomething();
+    }
+    static void doSomething(){
+        int x = 2; // LOCAL
+
+        System.out.print(x);
+    }
+}
