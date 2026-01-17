@@ -1,4 +1,4 @@
-package Javaoop.A5Static;
+package Javaoop.A15Static;
 
 public class Main {
     public static void main(String[] args){

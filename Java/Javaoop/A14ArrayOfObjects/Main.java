@@ -1,4 +1,4 @@
-package Javaoop.A4ArrayOfObjects;
+package Javaoop.A14ArrayOfObjects;
 
 public class Main {
     public static void main(String[] args){

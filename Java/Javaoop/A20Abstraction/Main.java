@@ -1,4 +1,4 @@
-package Javaoop.A10Abstraction;
+package Javaoop.A20Abstraction;
 
 public class Main {
     public static void main(String[] args){

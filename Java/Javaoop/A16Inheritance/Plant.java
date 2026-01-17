@@ -1,4 +1,4 @@
-package Javaoop.A6Inheritance;
+package Javaoop.A16Inheritance;
 
 public class Plant extends Organism{
 
