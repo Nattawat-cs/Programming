@@ -3,6 +3,10 @@ package Javaoop.A1Introtuctions;
 public class Main {
     public static void main(String[] args){
 
+        // Object = An object that holds data (attributes)
+        //          and can perform actions (method)
+        //          It is a reference data type
+
         Car car = new Car();
 
         car.isRunning = true;

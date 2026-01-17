@@ -8,7 +8,7 @@ public class L31arrays {
         String[] fruits = {"apple", "orange", "banana", "coconut"};
         
         fruits[1] = "pineapple";
-        int numOfFruits = fruits.lenght;
+        int numOfFruits = fruits.length;
         
         //Ex.1
         System.out.print(fruits[0]); // apple
@@ -19,7 +19,7 @@ public class L31arrays {
 
 
         //Ex.2
-        for(int i = 0; i < fruits.lenght; i++){
+        for(int i = 0; i < fruits.length; i++){
             System.out.println(fruits[i] + " "); // apple orange banana coconut
         }
 
