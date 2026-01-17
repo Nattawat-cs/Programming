@@ -11,7 +11,7 @@ public class L05arithmetic {
     //z = x - y;
     //z = x * y;
     //z = x / y;
-    //z = x % y;
+    z = x % y;
 
     System.out.println(z);
 

@@ -8,7 +8,7 @@ public class L08randomnumbers {
         //Ex.1
         int number;
 
-        number = random.nextInt(1, 6); //random 1-5
+        number = random.nextInt(11);
 
         System.out.println(number);
 

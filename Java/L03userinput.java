@@ -35,7 +35,7 @@ public class L03userinput {
         // COMMON ISSUES คือกรณีที่ป้อนข้อมูลเป็น int/double แล้วตามด้วย string จะเกิด input buffer
 
         System.out.print("Enter your age: ");
-        int age = scanner.nextInt();
+        //int age = scanner.nextInt();
         scanner.nextLine(); // Clear Input Buffer
 
         System.out.print("Enter your favorite color: ");
