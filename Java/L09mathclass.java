@@ -53,9 +53,9 @@ public class L09mathclass {
         area = Math.PI * Math.pow(radius, 2);
         volume = (4.0 / 3.0) * Math.PI * Math.pow(radius, 3);
 
-        System.out.println("The circumference is: %.1fcm\n", circumference);
-        System.out.println("The area is: %.1fcm/2\n", area);
-        System.out.println("The volume is: %.1cm/3\n", volume);
+        System.out.println("umference is: " +  circumference + "cm" );
+        System.out.println("The area is: " + area + "cm");
+        System.out.println("The volume is: " + volume + "cm");
 
 
         scanner.close();
