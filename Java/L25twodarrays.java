@@ -1,5 +1,4 @@
-
-public class L35twodarrays {
+public class L25twodarrays {
     public static void main(String[] args) {
 
         // 2D arrays = An array where each elemnt is an array

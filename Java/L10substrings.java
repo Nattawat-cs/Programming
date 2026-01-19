@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L14substrings {
+public class L10substrings {
     public static void main(String[] args) {
 
         // .substring() = A method used to extract a portion of a string

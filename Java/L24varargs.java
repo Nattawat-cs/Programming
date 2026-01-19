@@ -1,5 +1,4 @@
-
-public class L34varargs {
+public class L24varargs {
     public static void main(String[] args) {
 
         // varargs = allow a method to accept a varying # of arguments

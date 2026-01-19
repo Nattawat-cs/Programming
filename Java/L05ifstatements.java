@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L07ifstatements {
+public class L05ifstatements {
     public static void main(String[] args) {
 
         // if statement = performs a block of code if its condition is true

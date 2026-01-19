@@ -1,6 +1,6 @@
 import java.util.scanner;
 
-public class L21whileloops {
+public class L14whileloops {
     public static void main(String[] args) {
 
         // while loop = repeat some code forever

@@ -1,5 +1,4 @@
-
-public class L26methods {
+public class L18methods {
     public static void main(String[] args) {
 
         // method = a block of reusable code that is executed when called ()

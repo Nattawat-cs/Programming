@@ -1,5 +1,4 @@
-
-public class L31arrays {
+public class L21arrays {
     public static void main(String[] args) {
 
         // array = a collection of values of the same data type

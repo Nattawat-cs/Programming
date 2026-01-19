@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L32enteruserinputarray {
+public class L22enteruserinputarray {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

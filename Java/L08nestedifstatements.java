@@ -1,4 +1,4 @@
-public class L12nestedifstatements {
+public class L08nestedifstatements {
     public static void main(String[] args) {
 
         boolean isStudent = true;

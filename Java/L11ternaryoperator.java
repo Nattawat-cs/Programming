@@ -1,5 +1,4 @@
-
-public class L16ternaryoperator {
+public class L11ternaryoperator {
     public static void main(String[] args) {
 
     // ternary operator ? = Return 1 of 2 values if a condition is true

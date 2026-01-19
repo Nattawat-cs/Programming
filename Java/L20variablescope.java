@@ -1,5 +1,4 @@
-
-public class L28variablescope {
+public class L20variablescope {
 
     static int x = 3; //CLASS
 

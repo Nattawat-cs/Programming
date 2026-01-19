@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L23forloops {
+public class L15forloops {
     public static void main(String[] args) throws InterruptedException {
 
         // for loop = execute some code a CERTAIN amount of time

@@ -1,4 +1,4 @@
-public class L24breakcontinue {
+public class L16breakcontinue {
     public static void main(String[] args) {
 
         // break = break out of a loop (STOP)

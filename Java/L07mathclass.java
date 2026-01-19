@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L09mathclass {
+public class L07mathclass {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.scanner;
 
-public class L20logicaloperators {
+public class L13logicaloperators {
     public static void main(String[] args) {
  
         Scanner scanner = new Scanner(System.in);
