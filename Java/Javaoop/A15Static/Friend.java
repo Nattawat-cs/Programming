@@ -14,4 +14,8 @@ public class Friend {
         System.out.println("You have " + numofFriends + " total friend");
     }
 
+    void name(){
+        System.out.println(this.name);
+    }
+
 }

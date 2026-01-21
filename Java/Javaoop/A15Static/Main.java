@@ -15,5 +15,10 @@ public class Main {
         System.out.println(Friend.numofFriends);  // 4
 
         Friend.showfriend();                      // You have 4 total friends
+
+        friend1.name();
+        friend2.name();
+        friend3.name();
+        friend4.name();
     }
 }
