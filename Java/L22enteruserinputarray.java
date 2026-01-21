@@ -18,7 +18,7 @@ public class L22enteruserinputarray {
 
         foods1 = new String[size];
 
-        for(int i = 0; i < food.length; i++){
+        for(int i = 0; i < foods1.length; i++){
             System.out.print("Enter a food: ");
             foods[i] = scanner.nextLine();
         }

@@ -28,7 +28,7 @@ public class L23searchanarray {
     String target1;
     
     System.out.print("Enter a fruit to search for: ");
-    target1 = scanner.nextInt();
+    target1 = scanner.nextLine();
 
     for(int i = 0; i < fruits.length; i++){
 

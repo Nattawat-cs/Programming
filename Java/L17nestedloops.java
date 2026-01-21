@@ -13,7 +13,7 @@ public class L17nestedloops {
             for(int j = 0; j <= 9; j++){
                 System.out.print(j + " ");
             }
-            System.out.println():
+            System.out.println();
         }
         
         //Ex.2
@@ -37,5 +37,6 @@ public class L17nestedloops {
             System.out.println();
         }
         
+        scanner.close();
     }
 }

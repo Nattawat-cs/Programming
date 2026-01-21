@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 
 public class L13logicaloperators {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class L13logicaloperators {
         double temp = -10;
         boolean isSunny = true;
 
-        if(temp <= 30 && temp >= 0 && temp isSunny){
+        if(temp <= 30 && temp >= 0 && isSunny){
             System.out.println("The weather is GOOD");
             System.out.println("It is SUNNY outside");
         }
@@ -35,10 +35,10 @@ public class L13logicaloperators {
         System.out.print("Enter your new username: ");
         username = scanner.nextLine();
 
-        if(username.lenght() < 4 || username.lenght() > 12){
+        if(username.length() < 4 || username.length() > 12){
             System.out.println("Usernname must be between 4-12 characters");
         }
-        else if(username.contain(" ") || username,contain("_")){
+        else if(username.contains(" ") || username.contains("_")){
             System.out.println("Usernname must be not contain space or underscore");
         }
         else{

@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class L12enhancedSwitches {
     public static void main(String[] args) {
 
@@ -10,14 +11,14 @@ public class L12enhancedSwitches {
         String day = scanner.nextLine();
 
         switch(day){
-            case "Monday" -> System.out.println("It is a weekday");
-            case "Tuesday" -> System.out.println("It is a weekday");
-            case "Wednesday" -> System.out.println("It is a weekday");
-            case "Thursday" -> System.out.println("It is a weekday");
-            case "Friday" -> System.out.println("It is a weekday");
-            case "Saturday" -> System.out.println("It is a weekday");
-            case "Sunday" -> System.out.println("It is a weekday");
-            default -> System.out.println(day + "is not a day");
+            case "Monday" : System.out.println("It is a weekday");
+            case "Tuesday" : System.out.println("It is a weekday");
+            case "Wednesday" : System.out.println("It is a weekday");
+            case "Thursday" : System.out.println("It is a weekday");
+            case "Friday" : System.out.println("It is a weekday");
+            case "Saturday" : System.out.println("It is a weekday");
+            case "Sunday" : System.out.println("It is a weekday");
+            default : System.out.println(day + "is not a day");
         }
         
         scanner.close();

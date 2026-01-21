@@ -6,6 +6,7 @@ public class L20variablescope {
 
         int x = 1; // LOCAL
 
+        System.out.println(x);
         doSomething();
     }
     static void doSomething(){

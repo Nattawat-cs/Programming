@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 
 public class L14whileloops {
     public static void main(String[] args) {
@@ -44,7 +44,7 @@ public class L14whileloops {
         System.out.println("Your are " + age + " Years old");
         
         //Ex.3.1
-        int age;
+        //int age;
 
         System.out.print("Enter your age: ");
         age = scanner.nextInt();

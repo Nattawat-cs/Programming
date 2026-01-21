@@ -4,7 +4,7 @@ public class L18methods {
         // method = a block of reusable code that is executed when called ()
        
         //Ex.1
-        happyBirthDay();
+        happyBirthDay("Tle", 21);
 
         //Ex.2
         String name = "Tle";
@@ -24,7 +24,7 @@ public class L18methods {
         System.out.println(fullName);
 
         //Ex.6
-        int age = 21;
+        //int age = 21;
 
         if(ageCheck(age)){
             System.out.println("You may sing up!");
@@ -35,10 +35,10 @@ public class L18methods {
 
     }
     static void happyBirthDay(String name, int age){
-        System.out.print("Happy Birthday to you!");
-        System.out.print("Happy birthday dear %s!\n", name);
-        System.out.print("You are %d year old!\n", age);
-        System.out.print("Happy Birthday to you!\n");
+        System.out.println("Happy Birthday to you!");
+        System.out.println("Happy birthday dear " + name + "!");
+        System.out.println("You are " + age + " year old!");
+        System.out.println("Happy Birthday to you!\n");
     }
     static double square(double number){
         return number * number;

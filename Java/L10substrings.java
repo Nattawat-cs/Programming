@@ -14,8 +14,8 @@ public class L10substrings {
 
         System.out.print("Enter your email: ");
         
-        email = scanner.indexLine();
-        username = eamil.substring(0, 6);
+        email = scanner.nextLine();
+        username = email.substring(0, 6);
         //String username = eamil.substring(0, email.indexOf("@"));
         domain = email.substring(7, 16);
         //String domain = email.substring(7, email.indexOf("m"));

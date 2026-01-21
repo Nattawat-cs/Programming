@@ -14,6 +14,9 @@ public class L09stringmethods {
         //name = name.replace("o", "a");
 
 
+        System.out.println(lastIndex);
+        System.out.println(index);
+        System.out.println(letter);
         System.out.println(length);
         //Systm.out.println(name.isEmpty()); // ถ้าในตัวแปลไม่มีอักษรจะคือค่า true แต่ถ้ามีจะคืนค่า false
 
