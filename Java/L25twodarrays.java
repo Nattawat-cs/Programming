@@ -5,7 +5,7 @@ public class L25twodarrays {
         //             Useful for storing a matrix of data
         
         //Ex.1
-        String[] frutis = {"apple", "orange", "banana"};
+        String[] fruits = {"apple", "orange", "banana"};
         String[] vegetables = {"potato", "onion", "carrot"};
         String[] meats = {"chicken", "pork", "beef", "fish"};
 
