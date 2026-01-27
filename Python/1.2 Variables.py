@@ -27,3 +27,15 @@ distance = 5.5
 print(f"the price is ${price}")
 print(f"Your gpa is: {gpa}")
 print(f"You ran {distance}")
+
+#Boolean
+is_student = True
+
+print(f"Are you a student?: {is_student}")
+
+if is_student:
+    print("You are a student")
+else:
+    print("You are NOT a student")
+
+    
