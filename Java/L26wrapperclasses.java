@@ -28,9 +28,9 @@ public class L26wrapperclasses {
 
         //Ex.2
         int j = Integer.parseInt("123");
-        double k = Double.parseDouble(3.14);
+        double k = Double.parseDouble("3.14");
         char l = "Pizza".charAt(0);
-        String m = Boolean.parseBoolean("true");
+        boolean m = Boolean.parseBoolean("true");
 
         //Ex.3
 
